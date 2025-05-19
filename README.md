@@ -21,7 +21,7 @@ matrix-portfolio/
 
 ## 📸 Preview
 
-![matrix-preview](matrix.png)
+[Click to view preview image](matrix.png)
 
 ## 🔧 How It Works
 
