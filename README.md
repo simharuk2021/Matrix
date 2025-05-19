@@ -20,7 +20,7 @@ matrix-portfolio/
 
 ## 📸 Preview
 
-![matrix-preview](https://your-image-url.com/preview.png) *(Add a screenshot if available)*
+![matrix-preview](https://simharuk2021.github.io/Matrix/)
 
 ## 🔧 How It Works
 
