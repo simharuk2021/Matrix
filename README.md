@@ -17,11 +17,11 @@ matrix-portfolio/
 ├── index.html
 ├── styles.css
 └── script.js
-
+```
 
 ## 📸 Preview
 
-[Click to view preview image](matrix.png)
+![Matrix Portfolio Preview](matrix.png)
 
 ## 🔧 How It Works
 
