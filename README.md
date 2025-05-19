@@ -11,16 +11,17 @@ A sleek, animated portfolio website inspired by the iconic **Matrix digital rain
 - 🌌 Neon green cyber-aesthetic with dark background
 
 ## 📂 Project Structure
+```text
 matrix-portfolio/
 │
-├── index.html # Main HTML structure
-├── styles.css # Visual styling and layout
-└── script.js # Canvas animation logic and controls
+├── index.html
+├── styles.css
+└── script.js
 
 
 ## 📸 Preview
 
-![matrix-preview](https://simharuk2021.github.io/Matrix/)
+![matrix-preview](matrix.png)
 
 ## 🔧 How It Works
 
